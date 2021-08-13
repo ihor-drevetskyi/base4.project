@@ -1,2 +1,2 @@
 imports:
-  - { resource: '@ComponentBundle/Resources/config/packages4/prod/routing.yaml' }
+  - { resource: '@ComponentBundle/Resources/config/packages/prod/routing.yaml' }

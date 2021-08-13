@@ -1,2 +1,2 @@
 imports:
-  - { resource: '@ComponentBundle/Resources/config/packages4/test/monolog.yaml' }
+  - { resource: '@ComponentBundle/Resources/config/packages/test/monolog.yaml' }

@@ -1,2 +1,2 @@
 imports:
-  - { resource: '@ComponentBundle/Resources/config/packages4/dev/web_profiler.yaml' }
+  - { resource: '@ComponentBundle/Resources/config/packages/dev/web_profiler.yaml' }
